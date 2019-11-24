@@ -1,8 +1,8 @@
 {
   "name": "koniwe",
   "version": "1.0.0",
-  "description": "",
-  "main": "app.js",
+  "description": "project for hackathon",
+  "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,6 +10,10 @@
     "type": "git",
     "url": "git+https://github.com/luisaromero/koniwe.git"
   },
+  "keywords": [
+    "woman",
+    "girl"
+  ],
   "author": "",
   "license": "ISC",
   "bugs": {
